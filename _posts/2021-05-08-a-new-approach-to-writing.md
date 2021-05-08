@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iterative blogposts"
+title:  "A new approach to writing"
 date:   2021-05-08 18:21:27 -0300
 categories: productivity writing
 ---
