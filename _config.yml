@@ -21,7 +21,7 @@
 title: Pablo Margreff
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Mas naquela foto você é a criança perto do urubu ou Sebastião Salgado?
+  Theory is when one knows everything, but nothing works. Practice is when everything works, but nobody knows why. In this building, Theory and Practice are in perfect harmony. Nobody knows why nothing works.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pmargreff
