@@ -11,6 +11,10 @@ permalink: /quotes/
 Anonymous
 
 ---
+
+> Na dúvida entre estar certo e ser gentil, seja gentil.
+
+Podcast clube da música autoral
 <br>
 
 [Based on](https://simonecarletti.com/quotes/).
