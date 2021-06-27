@@ -15,6 +15,14 @@ Anonymous
 > Na dúvida entre estar certo e ser gentil, seja gentil.
 
 Podcast clube da música autoral
+
+
+---
+
+
+> People don't care how much you know, until you show how much you care.
+
+Jeff Perry (Level-up engineering podcast)
 <br>
 
 [Based on](https://simonecarletti.com/quotes/).
