@@ -23,7 +23,6 @@ Podcast clube da música autoral
 > People don't care how much you know, until you show how much you care.
 
 Jeff Perry (Level-up engineering podcast)
-<br>
 
 --
 
@@ -32,5 +31,15 @@ Jeff Perry (Level-up engineering podcast)
 Stoicism
 
 --
+
+> Quem nao reflete repete.
+
+Bern
+
+--
+
+> O conhecimento reduz incerteza, mas o desconhecimento aumenta a ambiguidade.
+
+Altay de Souza
 
 [Based on](https://simonecarletti.com/quotes/).

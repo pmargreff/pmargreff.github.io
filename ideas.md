@@ -1,0 +1,4 @@
+- we are not screens
+- empathy for the good
+- recognizing when it's time to give up
+- what defines a senior dev
