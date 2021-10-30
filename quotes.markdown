@@ -30,7 +30,14 @@ Jeff Perry (Level-up engineering podcast)
 > You Don't Control What Happens, You Control How You Respond.
 
 Stoicism
+<br>
 
+--
+
+> A candle loses nothing by lighting another.
+
+James Keller
+<br>
 --
 
 [Based on](https://simonecarletti.com/quotes/).
