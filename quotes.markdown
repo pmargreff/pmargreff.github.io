@@ -40,4 +40,10 @@ James Keller
 <br>
 --
 
+> Knowledge does not have a field. If you are just into STEM or Humanities or is Biological oriented, your are more biased than should be. These field sets are not disjointed. Merge fields is painful but worthwhile!
+
+Altay de Souza
+<br>
+--
+
 [Based on](https://simonecarletti.com/quotes/).
