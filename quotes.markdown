@@ -8,7 +8,7 @@ permalink: /quotes/
 
 --
 
-> Theory is when you know everything but nothing works. Practice is everything works but no one knows why. In our laboratory, theory and practice are combined: nothing works and no one knows why!.
+> Theory is when you know everything but nothing works. Practice is everything works but no one knows why. In our laboratory, theory and practice are combined: nothing works and no one knows why!
 
 Anonymous
 
@@ -43,6 +43,19 @@ James Keller
 > Knowledge does not have a field. If you are just into STEM or Humanities or is Biological oriented, your are more biased than should be. These field sets are not disjointed. Merge fields is painful but worthwhile!
 
 Altay de Souza
+<br>
+--
+
+
+>  Not all readers are leaders, but all leaders are readers.
+
+Harry Truman.
+<br>
+--
+
+>  You just learned it if it changed your behavior, otherwise you just memorized it.
+
+Voices in my mind.
 <br>
 --
 
